@@ -1,0 +1,52 @@
+.card-img{
+  position: relative;
+  float: left;
+  height: 150px;
+  width: 150px;
+}
+
+.card>.card-img>.card-name {
+  background-color: #fcf3de;
+  border-radius: 3px;
+  height: 16px;
+  margin-left: 25px;
+  overflow: hidden;
+  position: absolute;
+  text-align: center;
+  width: 100px;
+}
+
+.card-img>img {
+  border-radius: 50%;
+  height: inherit;
+  width: inherit;
+}
+
+.card-item {
+  height: 16px;
+  position: absolute;
+  width: 16px;
+}
+
+.card-item-react {
+  margin-left: 142px;
+  margin-top: 75px;
+}
+
+.card-item-apparence {
+  margin-left: 138px;
+  margin-top: 91px;
+}
+
+.card-item-country {
+  margin-left: 130px;
+  margin-top: 107px;
+}
+
+.card-item>img{
+
+}
+
+div {
+  border: 1px solid black;
+}
